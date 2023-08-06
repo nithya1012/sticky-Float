@@ -1,0 +1,45 @@
+.sticky{
+    background-color: blueviolet;
+    margin-top: -90px;
+    border: 2px solid navy;
+    top: 100px;
+    height:50px;
+    position: sticky;
+    font-size: 30px;
+}
+.briyani{
+    color: 50px;
+    margin-left: 0px;
+    font-size: 30px;
+    margin-top: 90px;
+}
+.kulfi{
+    font-size: 20px;
+    
+}
+.float{
+    
+   font-size: 100px;
+}
+
+
+p{
+    font-size: 2em;
+}
+.labrador{
+    
+    width: 40%;
+    float: right;
+    background-color: bisque;
+}
+
+.bulldog{
+    width: 40%;
+    background-color: cadetblue;
+    float: left;
+    
+}
+
+img{
+    float: left;
+}
